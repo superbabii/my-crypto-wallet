@@ -247,14 +247,6 @@ This roadmap is a living document and will evolve based on technological advance
 
 Your feedback and suggestions are always welcome as I continue to improve and expand My Crypto Wallet!
 
-<div align="right">[ <a href="#introduction">↑ Back to top ↑</a> ]</div>
-
----
-
-<div align="right">[ <a href="#introduction">↑ Back to top ↑</a> ]</div>
-
----
-
 ---
 
 [typescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
