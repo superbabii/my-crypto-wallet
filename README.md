@@ -1,7 +1,6 @@
 <br />
 <div align="center">
   <div style="margin-top:20px; margin-bottom:20px;">
-  <img width="100" height="100" src="assets/mascot_head.png">
     <h1 align="center">My Crypto Wallet</h1>
   </div>
 
@@ -42,8 +41,6 @@ As I continue to evolve My Crypto Wallet, I'm committed to expanding its capabil
 - [Features](#features)
 - [Quick Start](#quick-start)
 - [Roadmap](#roadmap)
-- [License](#license)
-- [Contact](#contact)
 
 ## Tech Stack[![](assets/pin.svg)](#tech-stack)
 
@@ -154,8 +151,8 @@ To get the project up and running on your local machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/superbabii/react-native-crypto-wallet.git
-cd react-native-crypto-wallet
+git clone https://github.com/superbabii/my-crypto-wallet.git
+cd my-crypto-wallet
 ```
 
 2. Install dependencies:
@@ -257,12 +254,6 @@ Your feedback and suggestions are always welcome as I continue to improve and ex
 <div align="right">[ <a href="#introduction">↑ Back to top ↑</a> ]</div>
 
 ---
-
-## Contact [![](assets/pin.svg)](#contact)
-
-Project Link: [https://github.com/superbabii/my-crypto-wallet](https://github.com/superbabii/my-crypto-wallet)
-
-<div align="right">[ <a href="#introduction">↑ Back to top ↑</a> ]</div>
 
 ---
 
